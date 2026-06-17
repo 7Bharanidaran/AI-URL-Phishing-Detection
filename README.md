@@ -250,6 +250,4 @@ http://www.shprakserf.gq
 ---
 
 
-Cybersecurity Undergraduate | Blue Team Enthusiast | SOC Analyst Aspirant
 
-GitHub: https://github.com/7Bharanidaran
