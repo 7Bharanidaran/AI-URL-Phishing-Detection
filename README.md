@@ -161,31 +161,7 @@ The dashboard provides:
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-
-Add:
-
-```text
-screenshots/home_page.png
-```
-
-### Safe URL Detection
-
-Add:
-
-```text
-screenshots/safe_detection.png
-```
-
-### Phishing URL Detection
-
-Add:
-
-```text
-screenshots/phishing_detection.png
-```
 
 ---
 
@@ -273,9 +249,6 @@ http://www.shprakserf.gq
 
 ---
 
-## 👨‍💻 Author
-
-**Bharanidaran S**
 
 Cybersecurity Undergraduate | Blue Team Enthusiast | SOC Analyst Aspirant
 
